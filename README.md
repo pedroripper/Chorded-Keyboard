@@ -1,5 +1,6 @@
 # Chorded-Keyboard
 Wearable chorded keyboard
 
-https://github.com/pedroripper/Chorded-Keyboard/blob/main/keyboard_.mp4
+
+https://user-images.githubusercontent.com/23729957/207489628-798f6b24-c4cb-4dea-86a6-368ef7bd1f5d.mp4
 
